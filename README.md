@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iamjohnnyjordan
 - 👀 I’m interested in Life, learning
-- 🌱 I’m currently learning Cybersecurity, Marketing
+- 🌱 I’m currently learning Software Engineering, Marketing
 - 💞️ I’m looking to collaborate on My Interests
-- 📫 How to reach me ...
+- 📫 How to reach me ...Contact me here on github
 
 <!---
 Iamjohnnyjordan/Iamjohnnyjordan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
