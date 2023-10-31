@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iamjohnnyjordan
+- 👋 Hi, I’m @Iamjohnnyjordan, I will be loading my school projects and work projects on here. 
 - 👀 I’m interested in Life, learning
 - 🌱 I’m currently learning Software Engineering, Marketing
 - 💞️ I’m looking to collaborate on My Interests
